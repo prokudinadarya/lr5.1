@@ -1,0 +1,14 @@
+C:\Users\user\Documents\ПД\fbi-lab-master\PrimeApp\bin\Debug\netcoreapp2.0\PrimeApp.deps.json
+C:\Users\user\Documents\ПД\fbi-lab-master\PrimeApp\bin\Debug\netcoreapp2.0\PrimeApp.runtimeconfig.json
+C:\Users\user\Documents\ПД\fbi-lab-master\PrimeApp\bin\Debug\netcoreapp2.0\PrimeApp.runtimeconfig.dev.json
+C:\Users\user\Documents\ПД\fbi-lab-master\PrimeApp\bin\Debug\netcoreapp2.0\PrimeApp.dll
+C:\Users\user\Documents\ПД\fbi-lab-master\PrimeApp\bin\Debug\netcoreapp2.0\PrimeApp.pdb
+C:\Users\user\Documents\ПД\fbi-lab-master\PrimeApp\bin\Debug\netcoreapp2.0\PrimeService.dll
+C:\Users\user\Documents\ПД\fbi-lab-master\PrimeApp\bin\Debug\netcoreapp2.0\PrimeService.pdb
+C:\Users\user\Documents\ПД\fbi-lab-master\PrimeApp\obj\Debug\netcoreapp2.0\PrimeApp.csprojAssemblyReference.cache
+C:\Users\user\Documents\ПД\fbi-lab-master\PrimeApp\obj\Debug\netcoreapp2.0\PrimeApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\ПД\fbi-lab-master\PrimeApp\obj\Debug\netcoreapp2.0\PrimeApp.AssemblyInfoInputs.cache
+C:\Users\user\Documents\ПД\fbi-lab-master\PrimeApp\obj\Debug\netcoreapp2.0\PrimeApp.AssemblyInfo.cs
+C:\Users\user\Documents\ПД\fbi-lab-master\PrimeApp\obj\Debug\netcoreapp2.0\PrimeApp.csproj.CopyComplete
+C:\Users\user\Documents\ПД\fbi-lab-master\PrimeApp\obj\Debug\netcoreapp2.0\PrimeApp.dll
+C:\Users\user\Documents\ПД\fbi-lab-master\PrimeApp\obj\Debug\netcoreapp2.0\PrimeApp.pdb
